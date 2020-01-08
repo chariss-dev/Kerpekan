@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kerpekan</string>
+    <string name="judul">Judul</string>
+    <string name="detail">Detail</string>
+    <string name="detailMateri">Detail Materi</string>
+    <string name="profile">About</string>
+    <string name="nama">Daniel Adi Nugroho</string>
+    <string name="quote">Never stop learning,\n
+        because life never stops teaching</string>
+    <string name="source">~ Unknown ~</string>
+    <string name="email">chariss_solo@yahoo.com</string>
+    <string name="sumber">Sumber : dicoding.com</string>
+</resources>
